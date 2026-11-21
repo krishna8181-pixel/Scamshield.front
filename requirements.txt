@@ -1,0 +1,5 @@
+flask>=3.0
+pillow>=10.0
+requests>=2.31
+pytesseract>=0.3.13
+gunicorn>=22.0
